@@ -34,23 +34,23 @@ class IntegracaoProduct {
         $this->endointApi = $endointApi;
     }
 
-    public function getNome() {
+    public function getNome(): string{
         return $this->nome;
     }
 
-    public function getCodigo() {
+    public function getCodigo(): int {
         return $this->codigo;
     }
 
-    public function getImportaPedidos() {
+    public function getImportaPedidos(): string {
         return $this->importaPedidos ? 'Sim' : 'Não';
     }
 
-    public function getImportaProdutos() {
+    public function getImportaProdutos(): string {
         return $this->importaProdutos ? 'Sim' : 'Não';
     }
 
-    public function getEndointApi() {
+    public function getEndointApi(): string {
         return $this->endointApi;
     }
     
