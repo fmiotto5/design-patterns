@@ -5,7 +5,7 @@ use AbstractFactory\Exceptions\PosicaoNaoDisponivelException;
 use AbstractFactory\Exceptions\PosicaoNaoEncontradaException;
 use AbstractFactory\Fabricas\FabricaMoveisModernos;
 use AbstractFactory\Fabricas\FabricaMoveisRusticos;
-use AbstractFactory\interfaces\FabricaMoveisInterface;
+use AbstractFactory\Interfaces\FabricaMoveisInterface;
 
 require_once('../autoloader.php');
 

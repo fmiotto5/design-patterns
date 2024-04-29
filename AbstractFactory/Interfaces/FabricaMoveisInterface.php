@@ -1,10 +1,10 @@
 <?php
 
-namespace AbstractFactory\interfaces;
+namespace AbstractFactory\Interfaces;
 
-use AbstractFactory\interfaces\AbstractCadeira;
-use AbstractFactory\interfaces\AbstractMesa;
-use AbstractFactory\interfaces\AbstractSofa;
+use AbstractFactory\Interfaces\AbstractCadeira;
+use AbstractFactory\Interfaces\AbstractMesa;
+use AbstractFactory\Interfaces\AbstractSofa;
 
 interface FabricaMoveisInterface {
     public function criarMesa(): AbstractMesa;

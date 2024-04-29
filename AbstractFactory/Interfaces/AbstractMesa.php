@@ -1,6 +1,6 @@
 <?php
 
-namespace AbstractFactory\interfaces;
+namespace AbstractFactory\Interfaces;
 
 use AbstractFactory\Exceptions\PosicaoNaoDisponivelException;
 use AbstractFactory\Exceptions\PosicaoNaoEncontradaException;

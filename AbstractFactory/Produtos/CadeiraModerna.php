@@ -2,7 +2,7 @@
 
 namespace AbstractFactory\Produtos;
 
-use AbstractFactory\interfaces\AbstractCadeira;
+use AbstractFactory\Interfaces\AbstractCadeira;
 
 class CadeiraModerna extends AbstractCadeira {
     public function sentar() {

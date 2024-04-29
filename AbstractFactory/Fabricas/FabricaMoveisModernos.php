@@ -2,10 +2,10 @@
 
 namespace AbstractFactory\Fabricas;
 
-use AbstractFactory\interfaces\AbstractCadeira;
-use AbstractFactory\interfaces\AbstractMesa;
-use AbstractFactory\interfaces\AbstractSofa;
-use AbstractFactory\interfaces\FabricaMoveisInterface;
+use AbstractFactory\Interfaces\AbstractCadeira;
+use AbstractFactory\Interfaces\AbstractMesa;
+use AbstractFactory\Interfaces\AbstractSofa;
+use AbstractFactory\Interfaces\FabricaMoveisInterface;
 use AbstractFactory\Produtos\CadeiraModerna;
 use AbstractFactory\Produtos\MesaModerna;
 use AbstractFactory\Produtos\SofaModerno;

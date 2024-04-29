@@ -2,7 +2,7 @@
 
 namespace AbstractFactory\Produtos;
 
-use AbstractFactory\interfaces\AbstractMesa;
+use AbstractFactory\Interfaces\AbstractMesa;
 
 class MesaModerna extends AbstractMesa {
     public function __construct() {

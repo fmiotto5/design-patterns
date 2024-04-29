@@ -1,6 +1,6 @@
 <?php
 
-namespace AbstractFactory\interfaces;
+namespace AbstractFactory\Interfaces;
 
 abstract class AbstractSofa {
     abstract function sentar();

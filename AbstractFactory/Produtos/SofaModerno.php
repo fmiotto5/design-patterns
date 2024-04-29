@@ -2,7 +2,7 @@
 
 namespace AbstractFactory\Produtos;
 
-use AbstractFactory\interfaces\AbstractSofa;
+use AbstractFactory\Interfaces\AbstractSofa;
 
 class SofaModerno extends AbstractSofa {
     public function sentar() {
