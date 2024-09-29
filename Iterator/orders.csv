@@ -1,0 +1,26 @@
+OrderID,CustomerName,Product,Quantity,Price,OrderDate,Status
+1,John Doe,Laptop,3,750,2023-09-15,Shipped
+2,Jane Smith,Smartphone,2,500,2023-09-20,Delivered
+3,Alice Johnson,Tablet,1,300,2023-09-10,Pending
+4,Chris Lee,Headphones,5,150,2023-09-18,Cancelled
+5,Patricia Brown,Smartwatch,2,200,2023-09-25,Returned
+6,John Doe,Smartphone,4,600,2023-09-12,Shipped
+7,Jane Smith,Laptop,1,800,2023-09-22,Delivered
+8,Alice Johnson,Headphones,3,120,2023-09-14,Pending
+9,Chris Lee,Tablet,2,350,2023-09-19,Cancelled
+10,Patricia Brown,Smartwatch,1,250,2023-09-23,Returned
+11,John Doe,Tablet,2,400,2023-09-11,Shipped
+12,Jane Smith,Headphones,4,180,2023-09-21,Delivered
+13,Alice Johnson,Smartwatch,3,220,2023-09-13,Pending
+14,Chris Lee,Laptop,1,900,2023-09-17,Cancelled
+15,Patricia Brown,Smartphone,5,550,2023-09-24,Returned
+16,John Doe,Smartwatch,2,230,2023-09-16,Shipped
+17,Jane Smith,Tablet,1,320,2023-09-26,Delivered
+18,Alice Johnson,Laptop,3,850,2023-09-09,Pending
+19,Chris Lee,Smartphone,4,480,2023-09-27,Cancelled
+20,Patricia Brown,Headphones,2,140,2023-09-28,Returned
+21,John Doe,Smartphone,1,520,2023-09-29,Shipped
+22,Jane Smith,Smartwatch,3,210,2023-09-30,Delivered
+23,Alice Johnson,Headphones,5,160,2023-09-08,Pending
+24,Chris Lee,Tablet,2,340,2023-09-07,Cancelled
+25,Patricia Brown,Laptop,4,780,2023-09-06,Returned
